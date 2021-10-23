@@ -1,1 +1,1 @@
-This is Manu's firt git project!
+This is Manu's first git project!
